@@ -3,7 +3,8 @@
 A new Flutter application.
 
 ## Getting Started
-
+It's a bmi calculator .
+A simple flutter application with some functionality.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
